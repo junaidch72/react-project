@@ -1,0 +1,31 @@
+{
+  "blogs": [
+    {
+      "title": "React Js",
+      "body": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+      "userId": "1661522213313",
+      "id": 1
+    },
+    {
+      "title": "json",
+      "body": "Email verification is a process that helps verify if there is an actual user on the receiving end of the email address. Email validation could be part of email verification (and it usually is), however email verification is a more complex procedure involving both frontend and backend. To verify an email address properly, you will need to send an activation link/code to that email. Then the end user should activate it from their inbox: and we are talking about email confirmation here. ",
+      "userId": "1662128090811",
+      "id": 2
+    },
+    {
+      "title": "node",
+      "body": "he only parameter we passed to the slice method is the start index - the index of the first element to be included in the new array.",
+      "userId": "1662128090811",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "name": "junaid",
+      "body": "Build encapsulated components that manage their own state",
+      "userId": 1661522213313,
+      "blogId": "1",
+      "id": 1
+    }
+  ]
+}
